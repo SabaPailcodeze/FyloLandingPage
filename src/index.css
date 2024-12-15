@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.facebook:hover {
+  filter: brightness(0) saturate(100%) invert(42%) sepia(37%) saturate(515%)
+    hue-rotate(198deg) brightness(98%) contrast(92%);
+}
+
+.twitter:hover {
+  filter: brightness(0) saturate(100%) invert(42%) sepia(37%) saturate(515%)
+    hue-rotate(198deg) brightness(98%) contrast(92%);
+}
+
+.instagram:hover {
+  filter: brightness(0) saturate(100%) invert(42%) sepia(37%) saturate(515%)
+    hue-rotate(198deg) brightness(98%) contrast(92%);
+}
